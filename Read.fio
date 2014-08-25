@@ -1,6 +1,4 @@
 [randread]
 rw=read
-bs=4k,4k
-numjobs=1
 size=5G
 directory=/
